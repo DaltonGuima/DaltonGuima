@@ -9,7 +9,7 @@
 
 - [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dalton.guimaraes500@gmail.com)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonGuima)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonGuima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
 
