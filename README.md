@@ -7,7 +7,7 @@
 
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dalton.joaquim.984)
 
-- dalton.guimaraes500@gmail.com
+- [![Gmail](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Gmail&logoColor=white)]dalton.guimaraes500@gmail.com
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonGuima)](https://github.com/anuraghazra/github-readme-stats)
 
