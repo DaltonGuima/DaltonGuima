@@ -8,6 +8,8 @@
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dalton.joaquim.984)
 
 - Email: dalton.guimaraes500@gmail.com
+
+- My portfolio: https://daltonguima.github.io/
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonGuima)](https://github.com/anuraghazra/github-readme-stats)
 
