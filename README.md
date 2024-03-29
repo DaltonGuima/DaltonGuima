@@ -2,7 +2,7 @@
 <div style="display: inline_block">
   
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-joaquim-soares-guimarães-13a897231/)
-- 
+
 - Email: dalton.guimaraes500@gmail.com
 
 - My portfolio: https://daltonguima.github.io/
