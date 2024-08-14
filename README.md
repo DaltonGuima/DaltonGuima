@@ -6,6 +6,8 @@
 - Email: dalton.guimaraes500@gmail.com
 
 - My portfolio: https://daltonguima.github.io/
+
+- My Recent team project: https://github.com/AprovaQuiz
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
