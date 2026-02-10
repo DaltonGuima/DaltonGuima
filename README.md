@@ -85,14 +85,6 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DaltonGuima&theme=radical" alt="GitHub Streak" />
-  </a>
-</div>
-
 ---
 
 <h6 align='right'>A huge hug! 🤗🤗</h6>
